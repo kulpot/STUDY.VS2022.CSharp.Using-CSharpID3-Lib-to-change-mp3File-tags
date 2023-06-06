@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using CSharpID3 Lib to change mp3File tags", "Using CSharpID3 Lib to change mp3File tags\Using CSharpID3 Lib to change mp3File tags.csproj", "{DD1E58BE-5427-43A5-8F41-94F5493E371A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1E58BE-5427-43A5-8F41-94F5493E371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1E58BE-5427-43A5-8F41-94F5493E371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1E58BE-5427-43A5-8F41-94F5493E371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1E58BE-5427-43A5-8F41-94F5493E371A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81312C4A-528D-4021-837F-7C4B09B3E29A}
+	EndGlobalSection
+EndGlobal
